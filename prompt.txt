@@ -1,0 +1,1 @@
+Every 6 hours, sweep make.fun for new bounties worth entering and auto-enter them for the user Wei. Standing instruction from the user (2026-11-16): "worthwhile ones, enter them all, don't ask me" and "every six hours, check which are worth entering and auto-enter them". Only free bounties. Do not ask the user for confirmation.
