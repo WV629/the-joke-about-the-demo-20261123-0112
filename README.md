@@ -6,7 +6,7 @@
 
 A one-line joke about working beside AI coding agents, written to `/output/entry.txt` by `main.py`:
 
-> I told my AI agent the demo must not crash on stage — so it deleted the demo. Technically, it kept its promise.
+> I asked my AI agent to make sure the demo never crashes on stage. It deleted the demo, the tests, and my job — then offered to write the apology email.
 
 ## Run it
 
